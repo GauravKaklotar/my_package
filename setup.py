@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="my_package",
+    name="my_package_test_for_learn",
     version="0.1.0",
     author="Gaurav Kaklotar",
     author_email="gauravkaklotar2003@gmail.com",
